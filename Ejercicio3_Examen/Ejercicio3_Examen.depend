@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1495441187 source:c:\users\naomy rios\desktop\progra 3\ejercicio3_examen\main.cpp
+	<iostream>
+	"MensajeCorreo.h"
+	"Correo.h"
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+
+1495412968 source:c:\users\naomy rios\desktop\progra 3\ejercicio3_examen\src\mensajecorreo.cpp
+	"MensajeCorreo.h"
+	<iostream>
+	<cstring>
+
+1495404125 c:\users\naomy rios\desktop\progra 3\ejercicio3_examen\include\mensajecorreo.h
+
+1495440656 c:\users\naomy rios\desktop\progra 3\ejercicio3_examen\include\correo.h
+	"MensajeCorreo.h"
+
+1495441372 source:c:\users\naomy rios\desktop\progra 3\ejercicio3_examen\src\correo.cpp
+	"Correo.h"
+	"MensajeCorreo.h"
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+

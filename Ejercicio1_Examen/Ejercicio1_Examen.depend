@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495343167 source:c:\users\naomy rios\desktop\progra 3\ejercicio1_examen\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+	<stdlib.h>
+
